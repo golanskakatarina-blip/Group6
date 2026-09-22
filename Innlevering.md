@@ -66,6 +66,9 @@ Det vi velger å inkludere i kontrakten bør være presist. Jo mer vi går inn p
 
 ## Referanser
 Flyvbjerg, B. (2021, januar). Top Ten Behavioral Biases in Project Management: An Overview. Project Management Journal, 52(6). 10.48550/arXiv.2202.00125
+
 Gjøsund, P., & Huseby, R. (2015). To eller flere: Basiskunnskaper i gruppepsykologi (4th ed.). Cappelen Damm Akademisk.
+
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter (1st ed.). Fagbokforlaget.
+
 Zwikael, O., & Gilchrist, A. (2023). Planning to Fail: When Is Project Planning Counterproductive. IEEE Transactions on Engineering Management, 70(1), 220-231. 10.1109/TEM.2021.3053585
