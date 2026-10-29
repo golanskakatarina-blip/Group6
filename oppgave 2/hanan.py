@@ -14,7 +14,7 @@ class Storyline:
 
         if question not in (0, 1):
             print("Try again, input only 0 or 1")
-            self.giveChoice(beslutning)
+            self.giveChoice(beslutning) 
             return
 
         setattr(self, beslutning, question) #stores the result, samme som object.name=value name er string variable
